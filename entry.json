@@ -5,6 +5,7 @@
     "href": "index.html",
     "readme": "README.md",
     "video": "/videos/demo_racer.mp4",
+    "order": 11,
     "section": "games",
     "icon": "VR",
     "launchLabel": "Open Velocity Racer",
